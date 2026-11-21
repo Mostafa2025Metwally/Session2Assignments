@@ -1,0 +1,15 @@
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\bin\Debug\net10.0\Session2Assignment.exe
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\bin\Debug\net10.0\Session2Assignment.deps.json
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\bin\Debug\net10.0\Session2Assignment.runtimeconfig.json
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\bin\Debug\net10.0\Session2Assignment.dll
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\bin\Debug\net10.0\Session2Assignment.pdb
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\obj\Debug\net10.0\Session2Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\obj\Debug\net10.0\Session2Assignment.AssemblyInfoInputs.cache
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\obj\Debug\net10.0\Session2Assignment.AssemblyInfo.cs
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\obj\Debug\net10.0\Session2Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\obj\Debug\net10.0\Session2Assignment.dll
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\obj\Debug\net10.0\refint\Session2Assignment.dll
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\obj\Debug\net10.0\Session2Assignment.pdb
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\obj\Debug\net10.0\Session2Assignment.genruntimeconfig.cache
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\obj\Debug\net10.0\ref\Session2Assignment.dll
+C:\Users\Mostafa\source\repos\Assignments\Session2Assignment\obj\Debug\net10.0\Session2.378003A3.Up2Date
